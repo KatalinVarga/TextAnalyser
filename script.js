@@ -28,7 +28,9 @@ document.getElementById('textForm').addEventListener('submit', function(event) {
         'slide', 'has', 'have','do','does','more','much','towards','many','delve','consider', 'within','understanding', 
         'overall','firstly' ,'first','second', 'secondly', 'may','enhance','such','continuous', 'each','required','per',
         'certain','certainly', 'were', 'was', 'do','does', 'does not','he','she','it','we','you','they','there','tell','say',
-        'told', 'said', 'made','did', 'those','these', 'that'
+        'told', 'said', 'made','did', 'those','these', 'that', 'often', 'some', 'sometimes', 'what', 'where', 'how','who','especially',
+        'less', 'more','better', 'thing', 'things'
+
     ]);
     
     // Count occurrences of each word
